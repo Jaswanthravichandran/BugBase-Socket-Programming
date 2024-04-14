@@ -12,11 +12,11 @@ Provide a brief overview of what your project does and its main features.
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/your_username/your_project.git
+   git clone https://github.com/Jaswanthravichandran/BugBase-Socket-Programming.git
 
 2. **Navigate to the project directory:**
    ```bash
-   cd your_project
+   cd BugBase-Socket-Programming
 
 3. **Run the setup script:**
    ```bash
@@ -34,4 +34,8 @@ Provide a brief overview of what your project does and its main features.
 
 ## Usage Examples
 
-![Example Image](images/example.png)
+![Example Image](images/1.png)
+
+![Example Image](images/2.png)
+
+![Example Image](images/3.png)
