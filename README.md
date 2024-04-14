@@ -6,10 +6,6 @@ The project enables users to upload a file from one script to another over a net
 
 This system is useful for scenarios where files need to be transferred and processed remotely, such as automated file processing or remote administration tasks. It serves as a learning exercise for understanding network communication and file handling in Python.
 
-# File Transfer and Command Execution with Socket Programming
-
-This project consists of two Python scripts, `script1.py` and `script2.py`, which enable file transfer and command execution over a network using socket programming.
-
 ## How it Works:
 
 ### script1.py:
