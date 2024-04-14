@@ -45,6 +45,13 @@ This project consists of two Python scripts, `script1.py` and `script2.py`, whic
    ```bash
    python Setup.py
 
+> [!NOTE]
+> You can install the Python requirements manually if you face any issues in setup.py
+
+4. **Install python requirements:**
+   ```bash
+   pip install -r requirements.txt
+
 ## Usage
 
 1. Run the Script2.py first with the following command:
