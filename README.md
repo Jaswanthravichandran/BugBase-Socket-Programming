@@ -34,6 +34,8 @@ Provide a brief overview of what your project does and its main features.
 
 ## Usage Examples
 
+[![Video Demo](src/demo.mp4)](src/demo.mp4)
+
 ![Example Image](images/1.png)
 
 ![Example Image](images/2.png)
