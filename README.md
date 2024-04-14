@@ -57,7 +57,7 @@ This project consists of two Python scripts, `script1.py` and `script2.py`, whic
 
 ## Usage Examples
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/VFvfjsXBnIM" frameborder="0" allowfullscreen></iframe>
+[here](https://www.youtube.com/watch?v=VFvfjsXBnIM)
 
 
 ![Example Image](images/1.png)
