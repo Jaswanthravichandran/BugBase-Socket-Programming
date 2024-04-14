@@ -48,6 +48,24 @@ This system is useful for scenarios where files need to be transferred and proce
    ```bash
    pip install -r requirements.txt
 
+
+> [!TIP]
+> Feeling lazy to set up, then try to run it on docker image.
+
+1. **Pull the Docker image:**
+   ```bash
+   docker pull jaswanthravichandran/socket:latest
+
+2. **Run the Docker Image:**
+   ```bash
+   docker run -p 9000:9000 image_name
+
+3. **Run the Script1.py:**
+   - Now run the Script1.py from your localhost.
+     
+   ```bash
+   python Script1.py 'filename' localhost 9000
+   
 ## Usage
 
 1. Run the Script2.py first with the following command:
